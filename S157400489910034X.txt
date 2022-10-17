@@ -1,0 +1,13 @@
+Ben S. Bernanke, Mark Gertler, Simon Gilchrist,
+Chapter 21 The financial accelerator in a quantitative business cycle framework,
+Handbook of Macroeconomics,
+Elsevier,
+Volume 1, Part C,
+1999,
+Pages 1341-1393,
+ISSN 1574-0048,
+ISBN 9780444501585,
+https://doi.org/10.1016/S1574-0048(99)10034-X.
+(https://www.sciencedirect.com/science/article/pii/S157400489910034X)
+Abstract: This chapter develops a dynamic general equilibrium model that is intended to help clarify the role of credit market frictions in business fluctuations, from both a qualitative and a quantitative standpoint. The model is a synthesis of the leading approaches in the literature. In particular, the framework exhibits a “financial accelerator”, in that endogenous developments in credit markets work to amplify and propagate shocks to the macroeconomy. In addition, we add several features to the model that are designed to enhance the empirical relevance. First, we incorporate money and price stickiness, which allows us to study how credit market frictions may influence the transmission of monetary policy. In addition, we allow for lags in investment which enables the model to generate both hump-shaped output dynamics and a lead-lag relation between asset prices and investment, as is consistent with the data. Finally, we allow for heterogeneity among firms to capture the fact that borrowers have differential access to capital markets. Under reasonable parametrizations of the model, the financial accelerator has a significant influence on business cycle dynamics.
+Keywords: financial accelerator; business fluctuations; monetary policy

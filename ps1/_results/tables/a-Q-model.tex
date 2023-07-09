@@ -1,0 +1,24 @@
+\begin{table}[htbp]\centering
+\def\sym#1{\ifmmode^{#1}\else\(^{#1}\)\fi}
+\caption{Q-model of investment}
+\begin{tabular}{l*{2}{c}}
+\toprule
+                    &\multicolumn{1}{c}{(1)}&\multicolumn{1}{c}{(2)}\\
+                    &\multicolumn{1}{c}{Q-model}&\multicolumn{1}{c}{Augmented-Q-Model}\\
+\midrule
+aveq                &    0.000249\sym{***}&    0.000269\sym{***}\\
+                    &     (15.91)         &     (15.02)         \\
+\addlinespace
+L.cashflowrate\_w    &                     &      0.0218\sym{***}\\
+                    &                     &      (5.65)         \\
+\addlinespace
+Constant            &       0.245\sym{***}&       0.245\sym{***}\\
+                    &    (145.61)         &    (125.15)         \\
+\midrule
+FE                  &        Firm         &        Firm         \\
+N                   &       20357         &       16214         \\
+\bottomrule
+\multicolumn{3}{l}{\footnotesize \textit{t} statistics in parentheses}\\
+\multicolumn{3}{l}{\footnotesize \sym{*} \(p<0.05\), \sym{**} \(p<0.01\), \sym{***} \(p<0.001\)}\\
+\end{tabular}
+\end{table}
